@@ -5,17 +5,15 @@
 
 •	Front-end web Development
 
-•	Estudante plataforma <a href = https://dankicode.com/login?ref=campus> Danki Code </a>
-
 •	Tecnologias que estudo:
 
 <p align="left">
-<code><img src="Java.png" alt="JavaScript" width="60" height="40" /></code>&nbsp;
+<code><img src="javaC.png" alt="JavaScript" width="60" height="40" /></code>&nbsp;
 <code><img src="HTML-5.png" alt="HTML-5" width="40" height="40"/></code>&nbsp;
-<code><img src="css.jpg" alt="css" width="40" height="40"/></code>&nbsp;
+<code><img src="css.png" alt="css" width="40" height="40"/></code>&nbsp;
 </p>
 
 
+## Sobre Mim
 
-
-
+Olá, tenho 20 anos de idade e realizo a faculdade de Análise e Desenvolvimento de Sistemas, atualmente me encontro no 2º semestre do meu curso.
