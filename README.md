@@ -5,7 +5,7 @@
 
 •	Front-end web Development
 
-•	Tecnologias que estudo:
+•	O que estou estudando recentemente: 
 
 <p align="left">
 <code><img src="javaC.png" alt="JavaScript" width="60" height="40" /></code>&nbsp;
