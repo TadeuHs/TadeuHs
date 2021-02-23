@@ -12,7 +12,10 @@
 <p align="left">
 <code><img src="Java.png" alt="JavaScript" width="60" height="40" /></code>&nbsp;
 <code><img src="HTML-5.png" alt="HTML-5" width="40" height="40"/></code>&nbsp;
-<code><img src="css.jpg" alt="CSS3" width="40" height="40"/></code>&nbsp;
+<code><img src="css.jpg" alt="css" width="40" height="40"/></code>&nbsp;
 </p>
+
+
+
 
 
