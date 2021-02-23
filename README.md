@@ -5,7 +5,7 @@
 
 •	Front-end web Development
 
-•	Estudante plataforma 
+•	Estudante plataforma <a href = https://dankicode.com/login?ref=campus> Danki Code </a>
 
 •	Tecnologias que estudo:
 
