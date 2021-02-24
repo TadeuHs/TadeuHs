@@ -16,4 +16,4 @@
 
 ## Sobre Mim
 
-Olá, tenho 20 anos de idade e realizo a faculdade de Análise e Desenvolvimento de Sistemas, atualmente me encontro no 2º semestre do meu curso.
+Tenho 20 an,  realizo o curso de Análise e Desenvolvimento de Sistemas, atualmente me encontro no 2º semestre.
