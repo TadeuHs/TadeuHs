@@ -7,8 +7,9 @@
 
 •	O que estou estudando recentemente: 
 
+
 <p align="left">
-<code><img src="javaC.png" alt="JavaScript" width="60" height="40" /></code>&nbsp;
+<code><img src="javaC.png" alt="JavaScript" width="40" height="40" /></code>&nbsp;
 <code><img src="HTML-5.png" alt="HTML-5" width="40" height="40"/></code>&nbsp;
 <code><img src="css.png" alt="css" width="40" height="40"/></code>&nbsp;
 </p>
