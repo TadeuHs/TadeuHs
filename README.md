@@ -19,4 +19,4 @@
 
 ## Sobre Mim
 
-Tenho 21 anos e realizo tecnólogo de análise e desenvolvimento de sitemas, atualmente me encontro no 3º semestre do meu curso e viso estar aprendendo cada vez mais e deenvolvendo práticas melhores para atuar como dev e dba!
+Tenho 21 anos e realizo tecnólogo de análise e desenvolvimento de sitemas, atualmente me encontro no 3º semestre do meu curso e viso estar aprendendo cada vez mais e desenvolvendo práticas melhores para atuar como dev e dba!
