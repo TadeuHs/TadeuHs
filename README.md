@@ -1,7 +1,7 @@
 ## Eu sou o Tadeu Henrique!
 
 - 👨🏾‍💻 Hoje trabalho com análise de dados
-- 🌱 Estudando Pyhton / SQL / Qlik Sense
+- 🌱 Estudando Pyhton 
 <div>
   <a href="https://github.com/TadeuHs">
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=TadeuHs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
